@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Biodata"
+date:   2025-02-19 16:36:00 +0700
+categories: whoami
+---
+
+#laporanpkl 
+
+Nama saya adalah Pahri Permana: umur 16 tahun dan lahir pada 12 Juli 2008. Sekarang tinggal di Kec. Caringin, Kab. Sukabumi. Dulu saya pernah menjadi siswa di SD Negeri 2 Caringin (2013–2019) dan SMP Negeri 1 Caringin (2020–2023), dan kini merupakan siswa di SMK Wiguna (2023–).
